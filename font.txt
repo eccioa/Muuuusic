@@ -1,0 +1,186 @@
+5 8 37
+ AAAA   
+AA  AA  
+AAAAAA  
+AA  AA  
+AA  AA  
+BBBBB   
+BB  BB  
+BBBBB   
+BB  BB  
+BBBBBB  
+ CCCC   
+CC  CC  
+CC      
+CC  CC  
+ CCCC   
+DDDDD   
+DD  DD  
+DD  DD  
+DD  DD  
+DDDDD   
+EEEEEE  
+EE      
+EEEEE   
+EE      
+EEEEEE  
+FFFFFF  
+FF      
+FFFFF   
+FF      
+FF      
+ GGGG   
+GG      
+GG GGG  
+GG  GG  
+ GGGGG  
+HH  HH  
+HH  HH  
+HHHHHH  
+HH  HH  
+HH  HH  
+IIIIII  
+  II    
+  II    
+  II    
+IIIIII  
+ JJJJJ  
+   JJ   
+   JJ   
+JJ JJ   
+ JJJ    
+KK  KK  
+KK KK   
+KKKK    
+KK KK   
+KK  KK  
+LL      
+LL      
+LL      
+LL      
+LLLLLL  
+MM   MM 
+MMM MMM 
+MM M MM 
+MM   MM 
+MM   MM 
+NN  NN  
+NNN NN  
+NN NNN  
+NN  NN  
+NN  NN  
+ OOOO   
+OO  OO  
+OO  OO  
+OO  OO  
+ OOO0   
+PPPPP   
+PP  PP  
+PPPPP   
+PP      
+PP      
+ QQQQ   
+QQ  QQ  
+QQ QQQ  
+QQ  QQ  
+ QQQQQ  
+RRRRR   
+RR  RR  
+RRRRR   
+RR  RR  
+RR  RR  
+ SSSS   
+SS      
+ SSSS   
+    SS  
+ SSSS   
+TTTTTT  
+  TT    
+  TT    
+  TT    
+  TT    
+UU  UU  
+UU  UU  
+UU  UU  
+UU  UU  
+ UUUU   
+VV  VV  
+VV  VV  
+VV  VV  
+ VVVV   
+  VV    
+WW   WW 
+WW   WW 
+WW W WW 
+WWWWWWW 
+ WW WW  
+XX  XX  
+ XXXX   
+  XX    
+ XXXX   
+XX  XX  
+YY  YY  
+ YYYY   
+  YY    
+  YY    
+  YY    
+ZZZZZZ  
+   ZZ   
+  ZZ    
+ ZZ     
+ZZZZZZ  
+ 0000   
+00  00  
+00  00  
+00  00  
+ 0000   
+  11    
+ 111    
+  11    
+  11    
+111111  
+ 2222   
+    22  
+ 2222   
+22      
+222222  
+333333  
+   33   
+  333   
+    33  
+33333   
+44  44  
+44  44  
+444444  
+    44  
+    44  
+55555   
+55      
+55555   
+   555  
+55555   
+  66    
+ 66     
+66666   
+66  66  
+ 6666   
+777777  
+   77   
+  77    
+ 77     
+77      
+ 8888   
+88  88  
+ 8888   
+88  88  
+ 8888   
+ 9999   
+99  99  
+ 99999  
+   99   
+ 99     
+        
+        
+        
+        
+        
